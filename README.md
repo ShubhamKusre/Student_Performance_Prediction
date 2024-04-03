@@ -1,4 +1,4 @@
-# Student_Performance_Prediction
+# Student Performance Prediction
 Topic: Predict academic performance based on student demographics
 
 Dataset: 
