@@ -11,8 +11,19 @@ Dataset:
 - Consists of demographic, academic information, and environmental factors
 
 Goal: Better understand and predict factors that promote or hinder academic performance
+
 Description: 
-Explore the demographic of students. 
-Distinguish correlations between demographics and student performance. 
-Understand positive/negative impact on academic performance. 
-Draw a conclusion on what affects student academic performance.
+- Explore the demographic of students. 
+- Distinguish correlations between demographics and student performance. 
+- Understand positive/negative impact on academic performance. 
+- Draw a conclusion on what affects student academic performance.
+
+Techniques:
+- Data Analysis
+- Data Cleaning(Delete duplicates etc..)
+- Data Visualization
+- Unsupervised learning
+    - K-means clustering(Gender, Age, Grade Level, etc.)
+- Supervised Learning
+    - KNN(K-Nearest Neighbor) (Classification of students alike )
+
